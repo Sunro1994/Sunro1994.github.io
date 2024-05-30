@@ -1,5 +1,4 @@
 # The Site Configuration
-baseurl: "MyBlog.github.io"
 
 
 # Import the theme
@@ -24,7 +23,7 @@ description: 신중하게 기록하고 여러번 바라보려 만든 블로그�
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://Sunro1994.github.io"
+url: "https://Sunro1994.github.io/"
 
 github:
   username: Sunro1994 # change to your github username
