@@ -1,5 +1,5 @@
 # The Site Configuration
-baseurl: "/MyBlog.github.io"
+baseurl: "MyBlog.github.io"
 
 
 # Import the theme
