@@ -19,6 +19,7 @@
     "watch:js": "rollup -c --bundleConfigAsCjs -w",
     "lint:scss": "stylelint _sass/**/*.scss",
     "lint:fix:scss": "npm run lint:scss -- --fix",
+    "build:sass": "node-sass --output-style compressed -o assets/css _sass",
     "test": "npm run lint:scss"
   },
   "dependencies": {
