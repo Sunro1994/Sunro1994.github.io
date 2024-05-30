@@ -190,7 +190,11 @@ defaults:
       swcache: true
 
 sass:
+  load_paths:
+    - node_modules/bootstrap/scss
   style: compressed
+  variables:
+    jekyll-environment: "{{ jekyll.environment }}"
 
 compress_html:
   clippings: all
