@@ -712,6 +712,9 @@ $btn-mb: 0.5rem;
     overflow: hidden;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
+    background: url('/assets/img/lizard.jpg');
+    background-size: 100% 100%;
+    background-position: center;
 
     img {
       transition: transform 0.5s;
