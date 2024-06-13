@@ -682,6 +682,10 @@ $btn-mb: 0.5rem;
   background: var(--sidebar-bg);
   border-right: 1px solid var(--sidebar-border-color);
 
+  background: url('/assets/img/Background.png');
+  background-size: 100% 100%;
+  background-position: center;
+
   /* Hide scrollbar for Chrome, Safari and Opera */
   &::-webkit-scrollbar {
     display: none;
