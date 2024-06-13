@@ -32,18 +32,11 @@ twitter:
   username: "" # change to your twitter username
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Sunro1994
   email: gwangjuslr@gmail.copm # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - label: "GitHub"
-      icon : "fab fa-fw fa-github"
-      url :  "https://github.com/Sunro1994"
-    - label: "Instagram"
-      icon : "fab fa-fw fa-instagram"
-      url : "https://instagram.com/javaisdifiicult"
+    github: "https://github.com/Sunro1994"
+    instagram: "https://instagram.com/javaisdifficult"
 
 # Site Verification Settings
 webmaster_verifications:
